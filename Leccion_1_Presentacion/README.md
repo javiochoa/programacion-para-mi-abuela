@@ -23,3 +23,7 @@ Juntar palabras de un diccionario no tiene porqué acabar formando frases con se
 * El resultado de 1 + 2 es 3
 ```
 Esto sería un ejemplo de un programa imaginario, pero sirve para entender la idea.
+
+# Herramientas
+
+Todo esto es muy bonito pero hay que hacerlo en algún sitio, para leer y escribir usamos un soporte sobre el que plasmar las palabras y una herramienta para hacerlo, igual sucede en programación. Nuestro papel sería un IDE, palabro que básicamente significa un editor de textos vitaminado con las funciones de programación y un compilador (o intérprete, ya veremos la diferencia en el futuro) que convierte esas palabras escritas en el IDE en un libro para el pueda leerlo el ordenador.
