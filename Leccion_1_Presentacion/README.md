@@ -2,6 +2,8 @@
 
 Aunque no seamos conscientes la programación nos rodea en nuestro día a día, te pongo un ejemplo: Cada vez que calientas algo en el microondas pulsas un botón que le dice cuánto tiempo tiene que estar calentándolo, si pulsas una vez el botón es 1 minuto, si pulsas 2 lo calentará 2 y así sucesivamente, de una manera muy básica eso es programar.
 
+![](resources/meme_anciana_leyendo.jpg)
+
 
 Programar no es más que aprender un idioma nuevo, uno que sirve para decir a los ordenadores qué queremos que hagan por nosotros, y al igual que cualquier lenguaje tiene un vocabulario que usaremos para formar oraciones con sentido. Esto es lo que vamos a aprender, cómo es ese idioma y cómo formar esas frases.
 
